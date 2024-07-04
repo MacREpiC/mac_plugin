@@ -1,0 +1,33 @@
+main: org.utilidades_server.UtilidadesServer
+version: 1.0.0
+name: mac_pluggin
+author: Mac
+api-version: 1.20
+
+commands:
+  lobby:
+    description: Este plugin tienes funcionalidades necesarias para el funcionamiento del servidor.
+  menu:
+    description: Esto lo hace para que la gente aun asi pueda ver el comando.
+  chg:
+    description:
+  chc:
+    description:
+  cha:
+    description:
+  che:
+    description:
+  chm:
+    description:
+  chs:
+    description:
+  comandos_all:
+    description:
+  walk_all:
+    description:
+  resetear_mundos:
+    description:
+  tiempo:
+    description:
+  cargar_spawn_recursos:
+    description:

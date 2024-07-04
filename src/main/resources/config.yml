@@ -1,0 +1,9 @@
+prefijos:
+  server_prefix: "HOLA"
+  plugin_prefix: "HOLA"
+mensajes:
+  permiso_denegado: "No tienes permisos para hacer esto! FROM YML CONFIG"
+config:
+  guardar_tiempo_vuelo:
+    # Permite guardar el tiempo de vuelo al apagar el servidor
+    enabled: true
